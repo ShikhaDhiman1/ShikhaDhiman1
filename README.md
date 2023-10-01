@@ -7,16 +7,16 @@
 
 - 🔭 I’m currently working on **my Portfolio website**
 
-- 🌱 I’m currently learning **React.js and Node.js**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **HTML, CSS, JavaScript, C++**
 
 - 📫 How to reach me **dshikha4403@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shikha-dhiman-22925b233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shikha-dhiman-22925b233/" height="30" width="40" /></a>
-<a href="https://discord.gg/shikha_dhiman#4705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shikha_dhiman#4705" height="30" width="40" /></a>
+<a href="https://discord.gg/shikhadhiman_22221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shikha_dhiman#4705" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
